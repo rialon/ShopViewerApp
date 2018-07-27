@@ -1,0 +1,101 @@
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\roslyn\csc.exe
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\roslyn\System.Collections.Immutable.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\roslyn\vbc.exe
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\roslyn\VBCSCompiler.exe
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\roslyn\VBCSCompiler.exe.config
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\ShopViewer.WEB.dll.config
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\ShopViewer.WEB.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\ShopViewer.WEB.pdb
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\Newtonsoft.Json.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\System.Net.Http.Formatting.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\System.Web.Http.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\System.Web.Http.WebHost.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\Newtonsoft.Json.xml
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\System.Net.Http.Formatting.xml
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\System.Web.Http.xml
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\System.Web.Http.WebHost.xml
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\obj\Debug\ShopViewer.WEB.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\obj\Debug\ShopViewer.WEB.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\obj\Debug\ShopViewer.WEB.pdb
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\EntityFramework.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\EntityFramework.SqlServer.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\Ninject.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\EntityFramework.xml
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\EntityFramework.SqlServer.xml
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\Ninject.xml
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\ShopViewer.BLL.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\ShopViewer.DAL.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\ShopViewer.BLL.pdb
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\AutoMapper.pdb
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\AutoMapper.xml
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\ShopViewer.DAL.pdb
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\AutoMapper.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\System.ValueTuple.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.WEB\bin\System.ValueTuple.xml
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\roslyn\csc.exe
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\roslyn\vbc.exe
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\ShopViewer.WEB.dll.config
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\ShopViewer.WEB.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\ShopViewer.WEB.pdb
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\AutoMapper.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\EntityFramework.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\Newtonsoft.Json.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\Ninject.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\Ninject.Web.Common.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\ShopViewer.BLL.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\System.Net.Http.Formatting.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\System.ValueTuple.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\System.Web.Http.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\System.Web.Http.WebHost.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\ShopViewer.DAL.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\ShopViewer.BLL.pdb
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\ShopViewer.BLL.dll.config
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\AutoMapper.pdb
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\AutoMapper.xml
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\EntityFramework.xml
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\Ninject.xml
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\Ninject.Web.Common.xml
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\System.ValueTuple.xml
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\Newtonsoft.Json.xml
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\System.Net.Http.Formatting.xml
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\System.Web.Http.xml
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\System.Web.Http.WebHost.xml
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\ShopViewer.DAL.pdb
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\ShopViewer.DAL.dll.config
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\obj\Debug\ShopViewer.WEB.csprojResolveAssemblyReference.cache
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\obj\Debug\ShopViewer.WEB.csproj.CoreCompileInputs.cache
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\obj\Debug\ShopViewer.WEB.csproj.CopyComplete
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\obj\Debug\ShopViewer.WEB.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\obj\Debug\ShopViewer.WEB.pdb
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\Ninject.Web.WebApi.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\WebActivatorEx.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\Ninject.Web.WebApi.xml
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\System.Web.Cors.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\System.Web.Http.Cors.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.WEB\bin\System.Web.Http.Cors.xml

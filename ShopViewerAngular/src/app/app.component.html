@@ -1,0 +1,41 @@
+<h1>Shop List</h1>
+<table class="table table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <td>Name</td>
+            <td>Address</td>
+            <td>Start of Work</td>
+            <td>End of Work</td>
+            <td></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let shop of shops">
+            <td>{{shop.Name}}</td>
+            <td>{{shop.Address}}</td>
+            <td>{{shop.StartTime | date:"HH:mm"}}</td>
+            <td>{{shop.EndTime | date:"HH:mm"}}</td>
+            <td>
+                <input type="button" value="Products" class="btn btn-default" (click)="loadProducts(shop)" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<div [style.display]="productsLoaded==true?'block':'none'">
+    <h1>Product List for {{currentShop.Name}}</h1>
+    <table class="table table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <td>Name</td>
+                <td>Description</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let product of products">
+                <td>{{product.Name}}</td>
+                <td>{{product.Description}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,21 @@
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.DAL\bin\Debug\ShopViewer.DAL.dll.config
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.DAL\bin\Debug\ShopViewer.DAL.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.DAL\bin\Debug\ShopViewer.DAL.pdb
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.DAL\bin\Debug\EntityFramework.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.DAL\bin\Debug\EntityFramework.xml
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.DAL\obj\Debug\ShopViewer.DAL.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.DAL\obj\Debug\ShopViewer.DAL.pdb
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.DAL\bin\Debug\ShopViewer.DAL.dll.config
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.DAL\bin\Debug\ShopViewer.DAL.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.DAL\bin\Debug\ShopViewer.DAL.pdb
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.DAL\obj\Debug\ShopViewer.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.DAL\obj\Debug\ShopViewer.DAL.csproj.CopyComplete
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.DAL\obj\Debug\ShopViewer.DAL.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.DAL\obj\Debug\ShopViewer.DAL.pdb
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.DAL\obj\Debug\ShopViewer.DAL.csprojResolveAssemblyReference.cache

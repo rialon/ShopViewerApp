@@ -1,0 +1,41 @@
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.BLL\bin\Debug\ShopViewer.BLL.dll.config
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.BLL\bin\Debug\ShopViewer.BLL.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.BLL\bin\Debug\ShopViewer.BLL.pdb
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.BLL\bin\Debug\AutoMapper.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.BLL\bin\Debug\EntityFramework.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.BLL\bin\Debug\Ninject.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.BLL\bin\Debug\ShopViewer.DAL.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.BLL\bin\Debug\System.ValueTuple.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.BLL\bin\Debug\ShopViewer.DAL.pdb
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.BLL\bin\Debug\AutoMapper.pdb
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.BLL\bin\Debug\AutoMapper.xml
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.BLL\bin\Debug\EntityFramework.xml
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.BLL\bin\Debug\Ninject.xml
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.BLL\bin\Debug\System.ValueTuple.xml
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.BLL\obj\Debug\ShopViewer.BLL.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.BLL\obj\Debug\ShopViewer.BLL.dll
+D:\Мои документы\Visual Studio 2015\Projects\ShopViewer\ShopViewer.BLL\obj\Debug\ShopViewer.BLL.pdb
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.BLL\bin\Debug\ShopViewer.BLL.dll.config
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.BLL\bin\Debug\ShopViewer.BLL.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.BLL\bin\Debug\ShopViewer.BLL.pdb
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.BLL\bin\Debug\AutoMapper.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.BLL\bin\Debug\Ninject.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.BLL\bin\Debug\ShopViewer.DAL.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.BLL\bin\Debug\System.ValueTuple.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.BLL\bin\Debug\ShopViewer.DAL.pdb
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.BLL\bin\Debug\ShopViewer.DAL.dll.config
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.BLL\bin\Debug\AutoMapper.pdb
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.BLL\bin\Debug\AutoMapper.xml
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.BLL\bin\Debug\Ninject.xml
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.BLL\bin\Debug\System.ValueTuple.xml
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.BLL\obj\Debug\ShopViewer.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.BLL\obj\Debug\ShopViewer.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.BLL\obj\Debug\ShopViewer.BLL.csproj.CopyComplete
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.BLL\obj\Debug\ShopViewer.BLL.dll
+C:\Users\Rialon\source\repos\ShopViewer\ShopViewer.BLL\obj\Debug\ShopViewer.BLL.pdb
